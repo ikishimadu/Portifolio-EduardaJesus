@@ -1,0 +1,23 @@
+	<div class="service-item">
+				<div class="service-item-image">
+					<img src="images/bootstrap.png" alt="">
+				</div>
+				<h3>BOOTSTRAP 5</h3>
+				<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque suscipit praesentium accusamus voluptates perspiciatis labore, voluptatibus necessitatibus eum saepe sit rerum possimus sapiente? Commodi ex est totam nulla, ad mollitia.</p>
+			</div>
+			
+			<div class="service-item">
+				<div class="service-item-image">
+					<img src="images/figma.png" alt="">
+				</div>
+				<h3>FIGMA</h3>
+				<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque suscipit praesentium accusamus voluptates perspiciatis labore, voluptatibus necessitatibus eum saepe sit rerum possimus sapiente? Commodi ex est totam nulla, ad mollitia.</p>
+			</div>
+
+			<div class="service-item">
+				<div class="service-item-image">
+					<img src="images/wordpress.png" alt="">
+				</div>
+				<h3>WORDPRESS</h3>
+				<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque suscipit praesentium accusamus voluptates perspiciatis labore, voluptatibus necessitatibus eum saepe sit rerum possimus sapiente? Commodi ex est totam nulla, ad mollitia.</p>
+			</div>
